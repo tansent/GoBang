@@ -1,0 +1,6 @@
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\ResolveAssemblyReference.cache
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\GobangClient.MainForm.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\GobangClient.PlayingTable.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\GobangClient.Properties.Resources.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\GenerateResource.read.1.tlog
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Release\GenerateResource.write.1.tlog

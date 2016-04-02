@@ -1,0 +1,67 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+F:\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+F:\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+F:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+E:\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+E:\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+E:\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+E:\final assignment3\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+E:\final assignment3\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+E:\final assignment3\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+E:\final assignment4\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+E:\final assignment4\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+E:\final assignment4\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+E:\final assignment6\GobangClient\GobangUserControl\bin\Debug\GobangRoom.resx
+E:\final assignment6\GobangClient\GobangUserControl\bin\Debug\GobangRoom.Designer.cs
+E:\final assignment6\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+E:\final assignment6\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+E:\final assignment6\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangRoom.resx
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangRoom.Designer.cs
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.dll
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\bin\Debug\GobangUserControl.pdb
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\ResolveAssemblyReference.cache
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.GobangRoom.resources
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.Properties.Resources.resources
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.read.1.tlog
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GenerateResource.write.1.tlog
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.dll
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangUserControl\obj\Debug\GobangUserControl.pdb

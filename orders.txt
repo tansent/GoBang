@@ -1,0 +1,44 @@
+Login  -->  RoomNumbers -->  Tables-->     Login
+ (C -> S)         (S -> C)               (S -> C)       (S -> C)
+           \
+             ->   Sorry
+        	  (S -> C)
+           \
+             ->  NameUsed
+	  (S -> C)
+
+
+EnterRoom  -->  EnterRoom  -->   Tables
+ (C -> S)               (S -> C)             (S -> C)
+                    \
+                      ->   Grid
+                           (S -> C)
+
+
+  Talk    -->    Talk 
+(C -> S)       (S -> C)
+
+
+  Start   -->    Message * 2  -->   Start    -->  SetChess  -->  SetChess  -->  NextChess
+(C -> S)	       (S -> C) * 2         (S -> C)        (C -> S)           (S -> C)            (S -> C)
+                                                                                     \
+ 					      ->     Win
+                                                                                            (S -> C)
+
+
+  AskTie   -->    AskTie   -->    Reply    -->   Restart
+(C1 -> S)        (S -> C2)        (C2 -> S)         (S -> C)
+                                                          \
+                                                           ->     Reply  (Only Refuse case considered)
+				  (S -> C1)
+
+
+
+
+
+
+
+
+
+
+

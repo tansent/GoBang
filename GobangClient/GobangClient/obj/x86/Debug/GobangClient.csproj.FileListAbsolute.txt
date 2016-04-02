@@ -1,0 +1,114 @@
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+c:\users\administrator\documents\visual studio 2010\Projects\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+F:\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+F:\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+F:\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+F:\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+E:\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+E:\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+E:\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+E:\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+E:\final assignment3\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+E:\final assignment3\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+E:\final assignment3\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+E:\final assignment3\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment3\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+E:\final assignment4\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+E:\final assignment4\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+E:\final assignment4\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+E:\final assignment4\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment4\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+E:\final assignment5\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+E:\final assignment5\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+E:\final assignment5\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+E:\final assignment5\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment5\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment6\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangRoom.resx
+E:\final assignment6\GobangClient\GobangClient\bin\Debug\GobangRoom.Designer.cs
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+K:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.exe
+K:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.pdb
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangRoom.resx
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangRoom.Designer.cs
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.exe
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangClient.pdb
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.dll
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\bin\Debug\GobangUserControl.pdb
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.MainForm.resources
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.PlayingTable.resources
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GobangClient.Properties.Resources.resources
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\第六学期\C#网络应用编程\final assignment\GobangClient\GobangClient\obj\x86\Debug\GenerateResource.write.1.tlog

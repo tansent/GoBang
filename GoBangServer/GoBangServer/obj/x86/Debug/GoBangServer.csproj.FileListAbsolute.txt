@@ -1,0 +1,69 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+F:\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+F:\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+E:\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+E:\final assignment\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+E:\final assignment3\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+E:\final assignment3\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment3\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+E:\final assignment4\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+E:\final assignment4\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment4\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\final assignment5\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+E:\final assignment5\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+E:\final assignment6\GoBangServer\GoBangServer\bin\Debug\GoBangServer.exe
+E:\final assignment6\GoBangServer\GoBangServer\bin\Debug\GoBangServer.pdb
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.FormServer.resources
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.Properties.Resources.resources
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\final assignment6\GoBangServer\GoBangServer\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\第六学期\C#网络应用编程\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+H:\第六学期\C#网络应用编程\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
+K:\第六学期\C#网络应用编程\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.exe
+K:\第六学期\C#网络应用编程\final assignment\GoBangServer\GoBangServer\obj\x86\Debug\GoBangServer.pdb
